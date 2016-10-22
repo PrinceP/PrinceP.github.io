@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Prince Patel, currently a post graduate student in [IIIT Delhi](http://iiitd.ac.in){:target="_blank"}. My interests are in applications of Machine Learning in Data Analytics.
+My current work are in Computer vision, Deep Learning and Submodular Functions.
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[prince15046@iiitd.ac.in](mailto:prince15046@iiitd.ac.in)
